@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgSortWPF", "AlgSortWPF.csproj", "{058ED2BF-2047-458E-AA4A-292CFB40724A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgSort", "..\Task\Lab-4_array-sort-visualisation\AlgSort.csproj", "{54FBD48D-EB79-49E1-9920-BE2782083AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058ED2BF-2047-458E-AA4A-292CFB40724A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058ED2BF-2047-458E-AA4A-292CFB40724A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058ED2BF-2047-458E-AA4A-292CFB40724A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058ED2BF-2047-458E-AA4A-292CFB40724A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FBD48D-EB79-49E1-9920-BE2782083AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBD48D-EB79-49E1-9920-BE2782083AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBD48D-EB79-49E1-9920-BE2782083AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBD48D-EB79-49E1-9920-BE2782083AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F4B32E-E8AF-43BC-8EF4-D04083E63372}
+	EndGlobalSection
+EndGlobal
